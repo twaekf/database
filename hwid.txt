@@ -1,4 +1,4 @@
-AMD-AMD64
-13th-Intel64
 AMD-1952c102-696a-498a-9d2c-c4d14e5fd6df 
+13th-Intel64
+
 
