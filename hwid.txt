@@ -1,1 +1,2 @@
 AMD-AMD64
+13th-Intel64
